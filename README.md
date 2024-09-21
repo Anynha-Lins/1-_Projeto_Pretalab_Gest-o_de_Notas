@@ -1,1 +1,1 @@
-# 1-_Projeto_Pretalab_Gest-o_de_Notas
+# 1-_Projeto_Pretalab_Gestão_de_Notas
